@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179084188992",
+    "project_id": "acxiomconsultingreminder",
+    "storage_bucket": "acxiomconsultingreminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179084188992:android:9b3bce6e75b1a8d1b46ea5",
+        "android_client_info": {
+          "package_name": "soham.acxiom.consulting.reminder.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3NyFMwca98g8ro0Dnq5EQ3EIgTpx8Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
